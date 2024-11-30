@@ -45,8 +45,11 @@ You can still explore all the labs and continue learning at your own pace:
 ## 🚀 **Stay Connected**  
 The **GENAI Study Jam** may have ended, but the community is still alive and thriving! Join us to keep learning and innovating:  
 
-- **Discord**: [Join Now](https://discord.gg/example)  
-- **Twitter**: [Follow Us](https://twitter.com/example)  
+- **Instagram**: [Join Now](https://www.instagram.com/gdgc_ncu/)  
+- **Youtube**: [Follow Us](https://www.youtube.com/@gdscncu)
+- **WhatsApp**: [Join Now](https://chat.whatsapp.com/JswfQu1xefq6bXaMIeQRGg)  
+- **Linkedin**: [Follow Us](https://www.linkedin.com/company/gdsc-ncu-google-developer-student-clubs/)
+- **Become a Member** [Join Now](https://gdg.community.dev/gdg-on-campus-the-northcap-university-gurugram-india/)
 
 ---
 
